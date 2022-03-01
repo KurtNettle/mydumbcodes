@@ -46,7 +46,7 @@ int main()
     
     // #03
     // my 2nd approach after failing at first 
-    // approach and learning few core concepts of maths -,-
+    // approach and learning few core concepts of maths (-,-)
 
     n=1,m=10;
     for (n; n<=m; ++n)
@@ -66,7 +66,7 @@ int main()
     n=1,m=10;
     while(n<=m)
     {
-        x=n;
+        x = n;
         while(x>=2)
         {
             x-=2;
